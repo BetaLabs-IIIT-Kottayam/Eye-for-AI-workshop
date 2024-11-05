@@ -47,10 +47,16 @@ Download the repository then Navigate to the game directory:
 ```
 cd rock_paper_scissors
 ```
+Install the dependencies :
+
+```
+pip install opencv-python mediapipe
+```
+
 Run the game:
 
 ```
-python progtam.py
+python program.py
 ```
 
 
